@@ -1,4 +1,4 @@
-# Crud para estudo com bot em WhatsApp destinado a estudo e implementações futura para outros aplicativos em React.
+# Crud para estudo com bot em WhatsApp destinado a estudo e implementações futuraS para outros aplicativos em React.
 
 ## Tarefas
 
